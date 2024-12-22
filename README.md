@@ -1,2 +1,2 @@
-# ahkr-fqnal
+# ahkr-final
 final-project
